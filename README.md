@@ -1,6 +1,4 @@
 # Calculator
-First python code
-
 
 import os
 import platform
